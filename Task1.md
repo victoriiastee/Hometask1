@@ -25,8 +25,8 @@ The server must provide access to the **website for 1 year**. Let's say that we 
 | Mouse | Jedel 220 Black USB 800  | 2$ |
 | Keyboard | Defender Accent SB-720 USB  | 5$ |
 | UPS | Powercom BNT-800AP  | 185$ |
-| Generator | Widmann  | 900$ |
-| Electricity | 1000W SEASONIC| 473$ |
+| Generator | Widmann 2000W  | 900$ |
+| Electricity | Utility bill| 473$ |
 | Technical support | Nit services  | 40$ + 395$(33/month -server) |
 |**Total**|purchase + maintenance|**4176$**|
 
