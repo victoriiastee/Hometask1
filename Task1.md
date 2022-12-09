@@ -22,7 +22,7 @@ The server must provide access to the **website for 1 year**. Let's say that we 
 | Extencion cords | Grunhelm SNG10M, Profitec 5M x 2| 26$ |
 | Switch (+ load balancer) | TL-R480T+ TP-Link  | 60$ |
 | Display | EVROMEDIA i-19  | 98$ |
-| Mouth | Jedel 220 Black USB 800  | 2$ |
+| Mouse | Jedel 220 Black USB 800  | 2$ |
 | Keyboard | Defender Accent SB-720 USB  | 5$ |
 | UPS | Powercom BNT-800AP  | 185$ |
 | Generator | Widmann  | 900$ |
